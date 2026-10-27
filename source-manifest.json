@@ -1,0 +1,219 @@
+{
+  "asset": "GPT's Presidential Towers",
+  "author": "X_Bean_X",
+  "publishedVersion": "1.1.0",
+  "publishedPackageSHA256": "8607979f887942563e134ad2f11d6cbbffa558fdde9c3e66d5b891fba611745a",
+  "authoringFiles": [
+    {
+      "path": "References/footprints.json",
+      "bytes": 27529,
+      "sha256": "8fefda0948cf73bcb27c364c750de7debf284cd59d033e4741dfb1535a0679de"
+    },
+    {
+      "path": "References/site-metric.json",
+      "bytes": 12389,
+      "sha256": "f7aee10e02f008752212fb7aaefeb512809c053462845e4d8495bd2a12967f58"
+    },
+    {
+      "path": "Scripts/PTCreate20261021v2.cs",
+      "bytes": 8685,
+      "sha256": "561df8d56c7404b1417ac6494c7b98ac657225557365caf0a449993673528a94"
+    },
+    {
+      "path": "Scripts/PTCreate20261022v4.cs",
+      "bytes": 7346,
+      "sha256": "3c3038a89fc8bed9682198ca059ba9ff806bec9b0269b90599bcb1668c613258"
+    },
+    {
+      "path": "Scripts/PTCreate20261022v5.cs",
+      "bytes": 7376,
+      "sha256": "3dcffe2a005b57e17a21bc0c75f15fe5caa919edeb5af018a8286da35d09ad82"
+    },
+    {
+      "path": "Scripts/PTCreate20261022v6.cs",
+      "bytes": 7377,
+      "sha256": "198f568ae6af3c181e968053c13e0e69912a4684600bc0f346b42056ec94ba99"
+    },
+    {
+      "path": "Scripts/build_presidential.py",
+      "bytes": 16225,
+      "sha256": "bc76fb3b8013d4f665e2fdfdf6603115114c9771e887f9e6946852d76cd6027c"
+    },
+    {
+      "path": "Scripts/build_presidential_v2.py",
+      "bytes": 19108,
+      "sha256": "b0a4d264e38253b23b7ed287565242bc5757735b76986d4dd401ca96c304bd76"
+    },
+    {
+      "path": "Scripts/build_presidential_v4.py",
+      "bytes": 18332,
+      "sha256": "891c839ad1c896f8238b94f0c20beb20a520a4513c5b1eeb527be61537e377ed"
+    },
+    {
+      "path": "Scripts/build_presidential_v5.py",
+      "bytes": 21093,
+      "sha256": "a310166ae6acae1877d5f6b49c35a08660ac7c27ae90a1c3f783e5f499882a94"
+    },
+    {
+      "path": "Scripts/build_presidential_v6.py",
+      "bytes": 21123,
+      "sha256": "32feb410df6c6aad6a4595da3705fdb2367f6c52e8c0871a86dedb2794069746"
+    },
+    {
+      "path": "Scripts/export_modules.py",
+      "bytes": 2255,
+      "sha256": "ced918e00d2e3afeac9b107559d5880b978faef03257bff02c35a64a5df44da6"
+    },
+    {
+      "path": "Scripts/export_modules_v2.py",
+      "bytes": 2262,
+      "sha256": "e80b2dd70bf057980f21d113c2880a3979ce9e88998d4fd71201dd5d3d9570dc"
+    },
+    {
+      "path": "Scripts/export_modules_v4.py",
+      "bytes": 2278,
+      "sha256": "db4a48ea0283baf9b8763ec5f7d851d5c6667f19a1a9fac093b40425959f9032"
+    },
+    {
+      "path": "Scripts/export_modules_v5.py",
+      "bytes": 2299,
+      "sha256": "6b8d6d48d04c74f452e56534e167e8f3e07a90ddf927ee0fca42caa71459f64a"
+    },
+    {
+      "path": "Scripts/export_modules_v6.py",
+      "bytes": 2299,
+      "sha256": "44cbce38ca5d9ef71ab9982d051e6ebb7608ce624e06c495628cb8e500b65449"
+    },
+    {
+      "path": "Scripts/prepare_native.py",
+      "bytes": 1383,
+      "sha256": "6b3346f670b29d7d2786edc8c81f71af088b2815ed0b9ff58c516aeac0e2057a"
+    },
+    {
+      "path": "Source/PresidentialTowersCampus_v001.blend",
+      "bytes": 4938766,
+      "sha256": "c8707c6d59b3d8df83f2ebbae5e56becdf20d74d5157eccc5246888b69e0ff30"
+    },
+    {
+      "path": "Source/PresidentialTowersCampus_v002.blend",
+      "bytes": 5535815,
+      "sha256": "a82698efb252a381cbfe72a79a6bd3b82098bda32dbaf777a5350fd6c696ced2"
+    },
+    {
+      "path": "Source/PresidentialTowersCampus_v004.blend",
+      "bytes": 5556670,
+      "sha256": "e56ebe8ae6f1e6f9fb5e954c9a866aaacd7e6caeb5159767b71b847f15427c20"
+    },
+    {
+      "path": "Source/PresidentialTowersCampus_v005.blend",
+      "bytes": 5973163,
+      "sha256": "a5ca6c756ca4d00ff7ad7fc345e17fc561727aa3401632f8bade1a00c9405315"
+    },
+    {
+      "path": "Source/PresidentialTowersCampus_v006.blend",
+      "bytes": 5981498,
+      "sha256": "1a4e9b487d480dad98ac152c5f1d6937e06080c66f4cfcaf3d1c6052d56d9452"
+    },
+    {
+      "path": "Textures/PT_BaseColor.png",
+      "bytes": 667076,
+      "sha256": "4e20674dcdc8cc599ef865129a6a6c43536ba62dbdc198cc3bdfb7f7606b00fe"
+    },
+    {
+      "path": "Textures/PT_ControlMask.png",
+      "bytes": 18578,
+      "sha256": "82625fa08961e9f5ac5a8dd2b6d89607f5359eb50c72a35f6cae57c449bd5c6a"
+    },
+    {
+      "path": "Textures/PT_Emissive.png",
+      "bytes": 22540,
+      "sha256": "7d08b06d99bfd253a06282f551e5e0dd09f40bab63455a2a9652d381dfed1620"
+    },
+    {
+      "path": "Textures/PT_MaskMap.png",
+      "bytes": 21474,
+      "sha256": "ccd34b7e38f7d924b9e95e0d0490b7cdedd497c524dc0e28d613210da7ed356f"
+    },
+    {
+      "path": "Textures/PT_Normal.png",
+      "bytes": 20723,
+      "sha256": "2a37097d002c7245b2a672ff0336249e5af2653458bc882bd86d30d9558ab784"
+    },
+    {
+      "path": "Textures/V004/PT_BaseColor.png",
+      "bytes": 1317522,
+      "sha256": "50c87f14894efa1e1f33213be06614497832b1c3d2394f715c9417f1e2e063a7"
+    },
+    {
+      "path": "Textures/V004/PT_ControlMask.png",
+      "bytes": 36909,
+      "sha256": "7c26538cd3d39084032b816b9cb7dc8a24d88166316991def09d1dc89cbd3bb9"
+    },
+    {
+      "path": "Textures/V004/PT_Emissive.png",
+      "bytes": 41924,
+      "sha256": "75a016ad46b55befaf919b87e1a79dcd2166fe0bb651447f6af125c4b7898779"
+    },
+    {
+      "path": "Textures/V004/PT_MaskMap.png",
+      "bytes": 43244,
+      "sha256": "c4b2c7cb43fd375320351865f0639d1fd12b75692f0603bb641c7d1511efc3b8"
+    },
+    {
+      "path": "Textures/V004/PT_Normal.png",
+      "bytes": 41116,
+      "sha256": "32a00a211a686760cd4392034a629570b6c1713ba9c31dfc1fc27e8b0f00c32e"
+    },
+    {
+      "path": "Textures/V005/PT_BaseColor.png",
+      "bytes": 1323264,
+      "sha256": "b541e2319fa4cc2d47d183f261ac5f04a4d7b847aac3bbf07fbd0989e5171030"
+    },
+    {
+      "path": "Textures/V005/PT_ControlMask.png",
+      "bytes": 36909,
+      "sha256": "7c26538cd3d39084032b816b9cb7dc8a24d88166316991def09d1dc89cbd3bb9"
+    },
+    {
+      "path": "Textures/V005/PT_Emissive.png",
+      "bytes": 41924,
+      "sha256": "75a016ad46b55befaf919b87e1a79dcd2166fe0bb651447f6af125c4b7898779"
+    },
+    {
+      "path": "Textures/V005/PT_MaskMap.png",
+      "bytes": 43244,
+      "sha256": "c4b2c7cb43fd375320351865f0639d1fd12b75692f0603bb641c7d1511efc3b8"
+    },
+    {
+      "path": "Textures/V005/PT_Normal.png",
+      "bytes": 41116,
+      "sha256": "32a00a211a686760cd4392034a629570b6c1713ba9c31dfc1fc27e8b0f00c32e"
+    },
+    {
+      "path": "Textures/V006/PT_BaseColor.png",
+      "bytes": 1323264,
+      "sha256": "b541e2319fa4cc2d47d183f261ac5f04a4d7b847aac3bbf07fbd0989e5171030"
+    },
+    {
+      "path": "Textures/V006/PT_ControlMask.png",
+      "bytes": 36909,
+      "sha256": "7c26538cd3d39084032b816b9cb7dc8a24d88166316991def09d1dc89cbd3bb9"
+    },
+    {
+      "path": "Textures/V006/PT_Emissive.png",
+      "bytes": 41924,
+      "sha256": "75a016ad46b55befaf919b87e1a79dcd2166fe0bb651447f6af125c4b7898779"
+    },
+    {
+      "path": "Textures/V006/PT_MaskMap.png",
+      "bytes": 43244,
+      "sha256": "c4b2c7cb43fd375320351865f0639d1fd12b75692f0603bb641c7d1511efc3b8"
+    },
+    {
+      "path": "Textures/V006/PT_Normal.png",
+      "bytes": 41116,
+      "sha256": "32a00a211a686760cd4392034a629570b6c1713ba9c31dfc1fc27e8b0f00c32e"
+    }
+  ],
+  "nativeDefinitionFiles": 298
+}
