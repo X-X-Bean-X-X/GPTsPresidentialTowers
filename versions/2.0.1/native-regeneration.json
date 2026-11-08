@@ -1,0 +1,62 @@
+{
+  "schema": "PT-current-native-source-v240",
+  "status": "public_release_exact_payload_verified",
+  "assetName": "GPT's Presidential Towers",
+  "creator": "X_Bean_X",
+  "version": "2.0.1",
+  "sourcePolicy": "The native serialized definitions and geometry in the exact package are authoritative. Historical Blender massing/display materials do not replace native lighting, geometry, or service definitions.",
+  "roofLighting": {
+    "count": 32,
+    "perTower": 8,
+    "fullWarningLight02": true,
+    "parentMesh": 0,
+    "groundAttachmentForbidden": true,
+    "litSeconds": 7.0,
+    "offSeconds": 0.4,
+    "lensAndEffectNativeCurvesMatch": true,
+    "poleBelowRoof": false
+  },
+  "postal": {
+    "East": {
+      "cid": "54bb5d23decd4f4180b16f15794b2c5c",
+      "anchor": [
+        48,
+        0,
+        24
+      ],
+      "road": "South Clinton"
+    },
+    "West": {
+      "cid": "1994457e65952586205b2e67a335953c",
+      "anchor": [
+        -48,
+        0,
+        -28
+      ],
+      "road": "South Desplaines recessed plaza"
+    },
+    "architecture": "one fixed native BuildingExtensionPrefab upgrade per campus, enabled by selecting the upgrade and clicking the same campus",
+    "profileEach": {
+      "vans": 4,
+      "combinedStorage": 25000,
+      "workers": 6,
+      "upkeepPerMonth": 7500,
+      "range": 1000,
+      "coverageCapacity": 5000,
+      "coverageMagnitude": 2
+    },
+    "restaurantAndGroceryOffered": false,
+    "companionModRequired": false
+  },
+  "published": true,
+  "publishedPackage": {
+    "listing": "https://mods.paradoxplaza.com/mods/164364/Any",
+    "sha256": "5d9615b76b5d8fa235304f84677e1fbb117363358ebbcf77b20ab08c146d7e04",
+    "version": "2.0.1"
+  },
+  "sourceArchive": {
+    "file": "NativeDefinitions-2.0.1.zip",
+    "sha256": "17ab9b02bb9b2114e67e8a012fa9022109d6da67c454b1e75aae8f37919735dc",
+    "nativePayloadFiles": 1280
+  }
+}
